@@ -16,6 +16,9 @@
 		3F3FB3A827C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3FB3A727C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMTests.swift */; };
 		3F3FB3B227C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3FB3B127C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMUITests.swift */; };
 		3F3FB3B427C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3FB3B327C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMUITestsLaunchTests.swift */; };
+		3F3FB3C327C3263F005CD9FD /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3FB3C227C3263F005CD9FD /* InfoViewController.swift */; };
+		3F3FB3C527C421D1005CD9FD /* SiblingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3FB3C427C421D1005CD9FD /* SiblingsViewController.swift */; };
+		3F3FB3C727C424B7005CD9FD /* UncleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3FB3C627C424B7005CD9FD /* UncleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		3F3FB3AD27C2EA98005CD9FD /* MAD157-FamilyTreeApp-JacobMUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MAD157-FamilyTreeApp-JacobMUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F3FB3B127C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAD157_FamilyTreeApp_JacobMUITests.swift; sourceTree = "<group>"; };
 		3F3FB3B327C2EA98005CD9FD /* MAD157_FamilyTreeApp_JacobMUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MAD157_FamilyTreeApp_JacobMUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F3FB3C227C3263F005CD9FD /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
+		3F3FB3C427C421D1005CD9FD /* SiblingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiblingsViewController.swift; sourceTree = "<group>"; };
+		3F3FB3C627C424B7005CD9FD /* UncleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UncleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				3F3FB39927C2EA97005CD9FD /* Assets.xcassets */,
 				3F3FB39B27C2EA97005CD9FD /* LaunchScreen.storyboard */,
 				3F3FB39E27C2EA97005CD9FD /* Info.plist */,
+				3F3FB3C227C3263F005CD9FD /* InfoViewController.swift */,
+				3F3FB3C427C421D1005CD9FD /* SiblingsViewController.swift */,
+				3F3FB3C627C424B7005CD9FD /* UncleViewController.swift */,
 			);
 			path = "MAD157-FamilyTreeApp-JacobM";
 			sourceTree = "<group>";
@@ -260,6 +269,9 @@
 			files = (
 				3F3FB39527C2EA94005CD9FD /* ViewController.swift in Sources */,
 				3F3FB39127C2EA94005CD9FD /* AppDelegate.swift in Sources */,
+				3F3FB3C527C421D1005CD9FD /* SiblingsViewController.swift in Sources */,
+				3F3FB3C327C3263F005CD9FD /* InfoViewController.swift in Sources */,
+				3F3FB3C727C424B7005CD9FD /* UncleViewController.swift in Sources */,
 				3F3FB39327C2EA94005CD9FD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
